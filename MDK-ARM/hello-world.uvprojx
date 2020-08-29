@@ -416,6 +416,24 @@
           </Files>
         </Group>
         <Group>
+          <GroupName>BSP/Components</GroupName>
+        </Group>
+        <Group>
+          <GroupName>BSP/ArmFly-V7</GroupName>
+          <Files>
+            <File>
+              <FileName>armfly_v7_uart.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Drivers\BSP\armfly_v7_uart.c</FilePath>
+            </File>
+            <File>
+              <FileName>armfly_v7_uart.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\Drivers\BSP\armfly_v7_uart.h</FilePath>
+            </File>
+          </Files>
+        </Group>
+        <Group>
           <GroupName>::CMSIS</GroupName>
         </Group>
         <Group>
